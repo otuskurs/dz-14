@@ -102,7 +102,8 @@
 `</body>`  
 `</html>"`
 
-![][image1]
+![Снимок](https://github.com/user-attachments/assets/2b298426-d089-4993-9b17-026b74fc66d0)
+
 
 #### Собранный образ необходимо запушить в docker hub и дать ссылку на ваш репозиторий
 
