@@ -115,7 +115,7 @@
 `Configure a credential helper to remove this warning. See`  
 `https://docs.docker.com/engine/reference/commandline/login/#credential-stores`
 
-Меняем имя контейнера ( так-как имя пользователя и контейнера должны совпадать и hub )  
+Меняем имя контейнера ( так-как имя пользователя и контейнера должны совпадать c hub )  
 `root@dz14-otus:~/custom-nginx# docker tag root/custom-nginx:nginx otusalex/otus-dz14-docker`  
 `root@dz14-otus:~/custom-nginx#`
 
